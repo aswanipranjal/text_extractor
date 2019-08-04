@@ -1,7 +1,7 @@
 # text_extractor
 A simple service to extract text out of receipts
 
-This project is a part of the whole project created to compete in Bootstrap Paradox hackathon
+This project is a part of the whole project created to compete in Bootstrap Paradox hackathon. The inital design document can be [found here](https://github.com/aswanipranjal/text_extractor/blob/master/design%20doc.pdf)
 
 
 To set up the text extracting part, please do the following:
