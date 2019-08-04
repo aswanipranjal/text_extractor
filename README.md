@@ -43,3 +43,7 @@ What happens when you upload an image:
 - The user is then shown the text and asked if they want to change/modify any sentence/word
 - Once the user is satisfied with the output for the image, they submit the data
 - That data is then stored in the catalog ready to be searched on the basis of items or stores
+
+### Improvements:
+- Right now the dictionary of words is being loaded in memory, we could've used Redis here for a faster search time
+- We also could've added more data for food and grocery lists and extracted the electronic bill data by scraping websites 
